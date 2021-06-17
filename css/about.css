@@ -947,6 +947,8 @@ SECTION MARGIN
     font-weight: bold;
 }
 
+
+
 /* ===================About============================================== */
 
 #txt-abt-head{
@@ -1538,7 +1540,8 @@ a:hover{
     font-size: 35px;
 }
 #ancor-bottom-last .inner-content{
-    padding-top: 50px;
+    padding-top: 25px;
+    padding-bottom: 35px;
 }
 .child{
     margin-left: 50%;
